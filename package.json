@@ -1,0 +1,26 @@
+{
+  "name": "tailwindy",
+  "version": "1.0.0",
+  "description": "Tailwind css implementation",
+  "main": "postcss.config.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnezmah/tailwindy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnezmah/tailwindy/issues"
+  },
+  "homepage": "https://github.com/mnezmah/tailwindy#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.2"
+  }
+}
